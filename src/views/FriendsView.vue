@@ -32,7 +32,7 @@
       setTimeout(() => {
         this.friends = [
           { id: 1, name: 'Nikilitha Kakaza', phone: '082 402 1820', email: 'kakazanikilitha544@gmail.com', gender: 'female' },
-          { id: 2, name: 'Jam Do', phone: '098-765-4321', email: 'jam@example.com', gender: 'female' }
+          { id: 2, name: 'Jammm Do', phone: '098-765-4321', email: 'jam@example.com', gender: 'male' }
         ];
         this.loading = false;
       }, 2000);

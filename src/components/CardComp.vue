@@ -25,10 +25,10 @@
     padding: 16px;
     margin: 16px;
   }
-  .gold-border {
+  .red-border {
     border-color: red;
   }
-  .green-border {
+  .purple-border {
     border-color: purple;
   }
   </style>
